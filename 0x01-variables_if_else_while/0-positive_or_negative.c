@@ -5,7 +5,7 @@
  * main - entry point
  * Description: assigns random number to n each time n it's executed
  * Return: 0
- */
+*/
 int main(void)
 {
 	int n;
