@@ -16,4 +16,4 @@ int _putchar(char c);
 int _strlen(char *s);
 int _atoi(char *s);
 
-#endif
+#endif /* MAIN_H */
