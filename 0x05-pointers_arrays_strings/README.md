@@ -1,1 +1,1 @@
-10. Great leaders are willing to sacrifice the numbers to save the people. 
+11. Don't hate the hacker, hate the code 
