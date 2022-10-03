@@ -4,10 +4,16 @@
  * main - Prints the program name
  * @argc - Counts command line arguments
  * @argv - Array name
- * Returns = 0
+ * Return = 0
  */
 int main(int argc, char *argv[])
 {
-	printf("%s\n", argv[argc * 0]);
+	int i;
+
+	for (i = 0; i < argc; i++)
+	{
+		printf("%s\n", argv[i]);
+	}
 	return (0);
 }
+
